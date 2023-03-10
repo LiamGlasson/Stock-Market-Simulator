@@ -1,13 +1,13 @@
 # Stock Market Simulator
 A fully functional Investment Trading Application, written in Java.
 Created as part of the ***Object-Oriented Programming*** module at *Queen Mary, University of London*.
-
+___
 Dependencies
 ---
 Requires the JavaFX and Swing libraries to render the GUI.
 
 *Developed using Java 17*.
-
+___
 Usage
 ---
 - Extract the contents of the **`src`** folder.
@@ -19,7 +19,7 @@ Usage
     ```bash
     $    java StockMarket
     ```
-
+___
 Features
 ---
 **Investment Trading**
