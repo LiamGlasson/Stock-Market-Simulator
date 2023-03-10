@@ -5,6 +5,7 @@ Created as part of the ***Object-Oriented Programming*** module at *Queen Mary, 
 Dependencies
 ---
 Requires the JavaFX and Swing libraries to render the GUI.
+
 *Developed using Java 17*.
 
 Usage
