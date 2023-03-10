@@ -1,0 +1,30 @@
+# Compiled Class files
+*.class
+
+# Account Data Files
+*.acc
+
+# Log Files
+*.log
+
+# BlueJ Files
+*.ctxt
+
+# IntelliJ Files
+*.iml
+
+# IntelliJ Directories
+.idea/
+out/
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
